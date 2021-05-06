@@ -1,7 +1,7 @@
 BProcessing Thread : Test workerConnecting to database with id :1
 DConnecting to database:jdbc:mysql://localhost:3306/payroll_service
-gProcessing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@10a6de4
-CConnection is successful!com.mysql.cj.jdbc.ConnectionImpl@10a6de4
+gProcessing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@19d7b11
+CConnection is successful!com.mysql.cj.jdbc.ConnectionImpl@19d7b11
 bill
 terisa
 	charlie
