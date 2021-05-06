@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sql.DatabaseServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-06T11:55:48" hostname="MRUNAL" time="0.799">
+  <properties/>
+  <testcase name="givenEmployeePayrollDB_WhenRetrieved_ShouldMatchEmployeeCount()" classname="sql.DatabaseServiceTest" time="0.799"/>
+  <system-out><![CDATA[Processing Thread : Test workerConnecting to database with id :1
+Connecting to database:jdbc:mysql://localhost:3306/payroll_service
+Processing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@10a6de4
+Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@10a6de4
+bill
+terisa
+charlie
+terisa
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
