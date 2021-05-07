@@ -16,7 +16,6 @@ public class DatabaseService {
             {
                 System.out.print(resultSet.getInt("id"));
                 System.out.println(resultSet.getString("name"));
-
             }
         }catch (ClassNotFoundException exception)
         {
@@ -26,6 +25,5 @@ public class DatabaseService {
                 connection.close();
             }
         }
-
     }
 }

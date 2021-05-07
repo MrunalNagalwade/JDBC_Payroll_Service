@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="sql.DatabaseServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-06T12:13:50" hostname="MRUNAL" time="0.76">
+<testsuite name="sql.DatabaseServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-07T11:29:04" hostname="MRUNAL" time="0.922">
   <properties/>
-  <testcase name="givenEmployeePayrollDB_WhenRetrieved_ShouldMatchEmployeeCount()" classname="sql.DatabaseServiceTest" time="0.76"/>
-  <system-out><![CDATA[Processing Thread : Test workerConnecting to database with id :1
+  <testcase name="givenNewSalaryForEmployee_WhenUpdated_ShouldMatch()" classname="sql.DatabaseServiceTest" time="0.922"/>
+  <system-out><![CDATA[Connecting to database:jdbc:mysql://localhost:3306/payroll_service
+Processing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@10ee64d
+Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@10ee64d
 Connecting to database:jdbc:mysql://localhost:3306/payroll_service
-Processing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@19d7b11
-Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@19d7b11
-bill
-terisa
-charlie
-terisa
+Processing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@1008501
+Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@1008501
+3
+Connecting to database:jdbc:mysql://localhost:3306/payroll_service
+Processing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@16a496f
+Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@16a496f
+Connecting to database:jdbc:mysql://localhost:3306/payroll_service
+Processing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@144980c
+Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@144980c
+Connecting to database:jdbc:mysql://localhost:3306/payroll_service
+Processing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@1ef006b
+Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@1ef006b
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

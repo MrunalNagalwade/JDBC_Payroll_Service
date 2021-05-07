@@ -5,6 +5,7 @@ import java.util.Objects;
 
 public class EmployeePayrollData {
     public static Double  basic_pay;
+    public static Double salary;
     public String name;
     public int id;
     public String gender;
@@ -39,7 +40,6 @@ public class EmployeePayrollData {
                 ", start=" + start +
                 '}';
     }
-
     @Override
     public boolean equals(Object o)
     {

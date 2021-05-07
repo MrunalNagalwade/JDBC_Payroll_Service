@@ -1,8 +1,16 @@
-BProcessing Thread : Test workerConnecting to database with id :1
 DConnecting to database:jdbc:mysql://localhost:3306/payroll_service
-gProcessing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@19d7b11
-CConnection is successful!com.mysql.cj.jdbc.ConnectionImpl@19d7b11
-bill
-terisa
-	charlie
-terisa
+gProcessing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@10ee64d
+CConnection is successful!com.mysql.cj.jdbc.ConnectionImpl@10ee64d
+DConnecting to database:jdbc:mysql://localhost:3306/payroll_service
+gProcessing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@1008501
+CConnection is successful!com.mysql.cj.jdbc.ConnectionImpl@1008501
+3
+DConnecting to database:jdbc:mysql://localhost:3306/payroll_service
+gProcessing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@16a496f
+CConnection is successful!com.mysql.cj.jdbc.ConnectionImpl@16a496f
+DConnecting to database:jdbc:mysql://localhost:3306/payroll_service
+gProcessing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@144980c
+CConnection is successful!com.mysql.cj.jdbc.ConnectionImpl@144980c
+DConnecting to database:jdbc:mysql://localhost:3306/payroll_service
+gProcessing Thread : Test worker Id:1Connection is successful!com.mysql.cj.jdbc.ConnectionImpl@1ef006b
+CConnection is successful!com.mysql.cj.jdbc.ConnectionImpl@1ef006b
